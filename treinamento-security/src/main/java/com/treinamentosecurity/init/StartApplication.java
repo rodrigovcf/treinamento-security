@@ -1,6 +1,6 @@
 package com.treinamentosecurity.init;
 
-import com.treinamentosecurity.Repository.UserRepository;
+import com.treinamentosecurity.repository.UserRepository;
 import com.treinamentosecurity.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
